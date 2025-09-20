@@ -60,9 +60,10 @@ redguy.left(90)
 redguy.forward(100)
 
 t = turtle.Turtle()
-t.write("Hello, Turtle,we have been wating, we live in the matrix,you know what they say, 101010! stop moving! i say! dont hit me!")
+t.write("Hello, Turtle,we have been wating, we live in the matrix,you know what they say, 101010! stop moving! i say! dont hit me! also, beginner, can you modify this? fix the bugs? ")
 
 wn.mainloop()
+
 
 
 
